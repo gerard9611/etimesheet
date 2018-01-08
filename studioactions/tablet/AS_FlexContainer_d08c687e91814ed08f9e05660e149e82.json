@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_d08c687e91814ed08f9e05660e149e82": {
+        "id": "AS_FlexContainer_d08c687e91814ed08f9e05660e149e82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSearch",
+            "type": "forms",
+            "platform": "",
+            "KUID": "cae2e35ca5a84217ab07ff12e27fbc49"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a110cabc398641338780c50975d17a14",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.apps.coe.ess.Approvals.frmSearch.onClickFilterDisable();\n// frmSearch.flxClear.setVisibility(false);\n// frmSearch.flxHide.setVisibility(true);\n// frmSearch.flxSearchContainer.setVisibility(false);\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

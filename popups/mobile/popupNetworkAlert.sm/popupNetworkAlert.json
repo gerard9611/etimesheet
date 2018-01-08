@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7d6392a27e94784aa09e2ee2a64c274",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "lblOfflineTitle",
+        "lblVertLine",
+        "imgOffline",
+        "lblOfflineMessage"
+    ],
+    "containerheight": 38,
+    "containerheightreference": 1,
+    "containerweight": 90,
+    "currentLocale": "default",
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "close.png",
+                "maxIcon": "max.png",
+                "minIcon": "min.png"
+            }
+        }
+    },
+    "device": "iPhone4",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "footer": "popupNetworkAlert_footer",
+    "footersId": "e01012a3a59a47ed9766d50b51f1d216",
+    "id": "popupNetworkAlert",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "invokedProperty": "footers",
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "d2c31066e682433c9ec6f273c82866a4",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone4",
+    "titlebar": true,
+    "transparencybehindthepopup": 60,
+    "wType": "Popup"
+}

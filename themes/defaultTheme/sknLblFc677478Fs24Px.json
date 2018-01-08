@@ -1,0 +1,27 @@
+{
+  "background_color": "00000000",
+  "bg_type": "one",
+  "border_color": "424242ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "fontSizeInPx": true,
+  "font_color": "677478ff",
+  "font_name": "Helvetica",
+  "font_size": 86,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 121,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "s3f0ed7b03894a52a439d4677e697443",
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 142,
+    "isForked": true
+  },
+  "wType": "Label"
+}

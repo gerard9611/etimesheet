@@ -1,0 +1,28 @@
+{
+  "background_color": "6ebeaaff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_radius": 100,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "fontSizeInPx": false,
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kuid": "sac463e4f3d941fbb774cd57e810b414",
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 125,
+    "isForked": true
+  },
+  "wType": "Button"
+}

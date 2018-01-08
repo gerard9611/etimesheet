@@ -1,0 +1,23 @@
+{
+    "AS_Button_f53846c03e424bde8dc094277a90c96c": {
+        "id": "AS_Button_f53846c03e424bde8dc094277a90c96c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tempFooterOk",
+            "type": "templates",
+            "platform": null,
+            "KUID": "e8d782d1800b4001af14e45b6690a133"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_h168e1b91d1845bdb57ec06f7a15131b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.exit();",
+            "callbackType": null
+        }]
+    }
+}
